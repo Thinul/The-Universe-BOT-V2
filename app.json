@@ -1,13 +1,13 @@
 {
-  "name": "ASITHA-MD",
-  "description": "Javascript WhatsApp bot made by Asitha",
-  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
+  "name": "The Universe BOT V2",
+  "description": "All right reserved The Universe©",
+  "logo": "https://ibb.co/qYM8PXQG",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=176c0d3c7307a281",
       "required": true
     }
 },
