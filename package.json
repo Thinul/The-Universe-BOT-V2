@@ -1,13 +1,13 @@
 {
-"name": "ASITHA-MD",
+"name": "Game-World-MD",
 "version": "6.0.0",
 "description": "A WhatsApp bot created using Node.js",
 "main": "start.js",
   "type": "commonjs",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "start": "pm2 start start.js --deep-monitoring --attach --name Game-World-MD",
+    "stop": "pm2 stop Game-World-MD",
+    "restart": "pm2 restart Game-World-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
